@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+}
+.app{
+  margin: 1rem 4rem;
+}
+@media (max-width: 500px) {
+  .app{
+    margin: 0;
+  }
+}
